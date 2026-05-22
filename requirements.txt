@@ -1,0 +1,11 @@
+# URL Status Checker — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+requests>=2.31.0    # HTTP requests library
+colorama>=0.4.6     # CLI version colored output (checker.py)
+
+# tkinter ships with standard Python.
+# If missing on Linux:
+#   sudo apt-get install python3-tk        (Debian / Ubuntu)
+#   sudo dnf install python3-tkinter       (Fedora / RHEL)
+#   brew install python-tk@3.x             (macOS + Homebrew)
