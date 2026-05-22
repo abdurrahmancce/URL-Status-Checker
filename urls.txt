@@ -1,0 +1,24 @@
+# URL Status Checker — Sample URL List
+# Lines starting with '#' are comments and will be ignored
+# You can also use comma-separated URLs on one line
+
+# ── Popular websites (should return 200 OK) ────────────────────────────────
+https://www.google.com
+https://www.github.com
+https://www.wikipedia.org
+https://www.python.org
+https://httpbin.org/status/200
+
+# ── Redirects (should return 3xx) ─────────────────────────────────────────
+http://www.github.com
+
+# ── Client error (should return 404) ──────────────────────────────────────
+https://httpbin.org/status/404
+https://www.google.com/this-page-does-not-exist-404
+
+# ── Server error (should return 500) ──────────────────────────────────────
+https://httpbin.org/status/500
+
+# ── Invalid / unreachable ──────────────────────────────────────────────────
+not-a-valid-url
+https://this-domain-definitely-does-not-exist-xyz.com
