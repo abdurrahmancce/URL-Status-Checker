@@ -196,6 +196,8 @@ colorama>=0.4.6
 - Summary dashboard
 - Continuous monitoring mode
 
+<img width="1288" height="994" alt="image" src="https://github.com/user-attachments/assets/7f9bf299-c135-47bf-8c61-5565a00e92e0" />
+
 ---
 
 # 🔒 Error Handling
