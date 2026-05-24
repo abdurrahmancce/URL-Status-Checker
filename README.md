@@ -231,18 +231,6 @@ After building this project, you will understand:
 
 ---
 
-# ⭐ Recommended Improvements for Portfolio
-
-You can showcase this project on:
-
-- GitHub
-- LinkedIn
-- Portfolio Website
-
-Add screenshots and GIF demos for a professional touch.
-
----
-
 # 📜 License
 
 This project is open-source and free to use for learning purposes.
