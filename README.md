@@ -240,5 +240,6 @@ This project is open-source and free to use for learning purposes.
 ---
 
 # ❤️ Author
+```Abdur Rahman```
 
 Developed with Python for learning networking, GUI development, and real-world programming concepts.
